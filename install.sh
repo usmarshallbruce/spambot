@@ -9,7 +9,7 @@ amarelo="\033[1;33m"
 barra="\E[44;1;37m"
 tag_barra="\E[0m"
 tag="\033[0m"
-############### DEV: @newdo ###############
+############### DEV: @NovaNet4G2022 ###############
 
 clear
 echo -e "${amarelo}Baixando e configurando o SPAM-BOT...${tag}"
