@@ -1,6 +1,6 @@
 #!/bin/bash
-url="https://raw.githubusercontent.com/4GFastNet/spambot/main/spam_bot.zip"
-url_menu="https://raw.githubusercontent.com/4GFastNet/spambot/main/spam"
+url="https://raw.githubusercontent.com/usmarshallbruce/spambot/main/spam_bot.zip"
+url_menu="https://raw.githubusercontent.com/usmarshallbruce/spambot/main/spam"
 branco="\033[1;37m"
 azul="\033[0;34m"
 red="\033[0;31m"
